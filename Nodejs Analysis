@@ -1,0 +1,42 @@
+Node.js is powerful for building scalable web applications due to its event-driven, non-blocking I/O model. This architecture allows it to handle multiple requests concurrently without blocking the main thread, making it efficient for real-time applications and those with high traffic. It is also highly extensible and customizable, allowing developers to tailor it to their specific needs.
+Node.js was developed by Rhyan Dahi in 2009 and Node Package Manager has over 50000 bundles for at the developers’ disposal. Perfect for date intensive real time web application as Node.js name waits for an API to return dat.Node.js is known for it better synchronization of code between server and client due to same code
+Node.js express web application framework which provide a wide set of features to develop both web and mobile application
+Node.js stands out with its speed and intensive data exchange, so it is not surprising that lots of major and popular industries leaders chose to rely on Node.js such as Netflix, Walmart, Uber, NASA, PayPal, Medium etc.
+Easy for web developers to start using Node.js in their project as it a JavaScript library
+Parts of Node.js
+Modules, Console, Cluster, Global, Error Handling, Streaming, Buffer, Domain, DNS AND Debugger 
+Industry TREND
+Node.js developers are in demand across the world due to many companies adopting this JavaScript library. According to Forbes, it is among the ten most in-demand jobs. According to Node source, the total number of Node.js downloads increased dramatically since its release in 2010
+Node.js popularity is also because it is based on javaScript.Node.js developers as being offered better salaries options than other web technology developers
+Advantages of Node.js
+•	High Performance:
+Node.js utilizes the V8 JavaScript engine, providing fast execution and efficient handling of concurrent requests.
+•	Scalability:
+Its non-blocking I/O model enables it to handle a large number of simultaneous connections, making it suitable for scalable applications.
+•	Real-time Applications:
+Node.js is well-suited for real-time applications like chat and streaming due to its event-driven architecture.
+•	Full-stack JavaScript:
+Developers can use JavaScript for both front-end and back-end development, promoting code reuse and team efficiency.
+•	Large Ecosystem:
+npm provides a vast library of packages, simplifying development and offering solutions for various tasks.
+•	Easy to Learn:
+With a gentle learning curve, developers can quickly adapt and start building applications.
+•	Reduce the access times
+•	Data-intensive tasks 
+•	Keep the server actives 
+•	Fewer line of code
+ 
+Disadvantages of Node.js
+•	CPU-Bound Tasks:
+Node.js is not ideal for heavy computing tasks as it can block the event loop and slow down performance.
+•	Unstable API:
+Frequent API changes can lead to compatibility issues and require code modifications.
+•	Callback Hell:
+Asynchronous programming can result in complex nested callbacks, making code difficult to manage.
+•	Lack of Strong Library Support:
+Compared to other languages, Node.js may have limited library support in certain areas.
+•	Single-threaded:
+While beneficial for concurrency, the single-threaded nature can make it challenging to fully utilize multi-core processors without implementing specific strategies.
+•	Debugging and Error Handling:
+Asynchronous code can make debugging more complex, and error handling requires careful attention
+•	Thank you
